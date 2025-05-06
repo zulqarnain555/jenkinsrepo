@@ -1,1 +1,1 @@
-console.log("Hello from Jenkins!");
+console.log("Hello from Jenkins! 🎉");

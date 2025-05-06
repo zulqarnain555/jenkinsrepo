@@ -1,10 +1,11 @@
 {
   "name": "jenkins-hello-app",
   "version": "1.0.0",
-  "description": "A simple Node.js app for Jenkins testing",
+  "description": "A simple Node.js app for Jenkins CI testing",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "author": "Zulqarnain",
   "license": "MIT"
